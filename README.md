@@ -17,7 +17,7 @@ Version explaind:
   
   * V3 is a little bit not recommand to use which is required a batch file to run curl schedulely
   
-  * V4 is recommand to run it doesn't need schedule to run anything and added weather feature from Central Weather Bureau(https://en.wikipedia.org/wiki/Central_Weather_Bureau)
+  * V4 - newest - is recommand to run it doesn't need schedule to run anything and added weather feature from Central Weather Bureau(https://en.wikipedia.org/wiki/Central_Weather_Bureau)
 
 How to use:
 1. First clone\download all the code
@@ -44,7 +44,7 @@ How to use:
   
   * V3 一點點不推薦使用因為要batch排程去跑curl
   
-  * V4 推薦使用 不需要排程跑任何東西,新增中央氣象局的24小時的天氣預報
+  * V4 - 最新 - 推薦使用 不需要排程跑任何東西,新增中央氣象局的24小時的天氣預報
   
   如何使用:
 1. 一 clone\download 所有的程式碼
