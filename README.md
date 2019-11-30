@@ -47,6 +47,6 @@ How to use:
   * V4 - 最新 - 推薦使用 不需要排程跑任何東西,新增中央氣象局的24小時的天氣預報
   
   如何使用:
-1. 一 clone\download 所有的程式碼
+1. clone\download 所有的程式碼
 2. 在 Visual Studio 裡面編譯
 3. 發布和部署專案
