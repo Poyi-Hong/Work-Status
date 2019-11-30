@@ -19,6 +19,10 @@ Version explaind:
   
   * V4 is recommand to run it doesn't need schedule to run anything and added weather feature from Central Weather Bureau(https://en.wikipedia.org/wiki/Central_Weather_Bureau)
 
+How to use:
+1. First clone\download all code in src
+2. Build code in Visual Studio
+3. Publish and deploy
 ----------
 
 # Work Status
@@ -41,3 +45,8 @@ Version explaind:
   * V3 一點點不推薦使用因為要batch排程去跑curl
   
   * V4 推薦使用 不需要排程跑任何東西,新增中央氣象局的24小時的天氣預報
+  
+  如何使用:
+1. 一 clone\download 所有在src裡面的程式碼
+2. 在 Visual Studio 裡面編譯
+3. 發布和部署專案
