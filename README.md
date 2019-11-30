@@ -1,5 +1,5 @@
 # Work Status
-Improved the Taiwan,R.O.C government's official website
+Improved the Taiwan government's official website
 
 feature:
 * Improved UI
