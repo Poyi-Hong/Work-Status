@@ -12,7 +12,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lc_o3cUAAAAAEIBgyRh74kK7xQwJfguRoG27rcT"></script>
+    <%--<script src="https://www.google.com/recaptcha/api.js?render=6Lc_o3cUAAAAAEIBgyRh74kK7xQwJfguRoG27rcT"></script>--%>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script>
         function getUrlVars() {
@@ -111,7 +111,7 @@
             </ul>
             <div class="tab-content" id="pills-tabContent">
                 <div class="tab-pane fade show active" id="pills-cwb" role="tabpanel" aria-labelledby="pills-cwb-tab">
-                    <div class=" form-group" style="height: 300px; width: 100%" visible="false" runat="server" id="ChartCWBDiv">
+                    <div class=" form-group" style="position: relative; height:350px; width:100%" visible="false" runat="server" id="ChartCWBDiv">
                         <canvas id="ChartCWB" runat="server"></canvas>
                     </div>
                     <div class=" justify-content-center form-group w-50 text-center d-flex align-content-center mx-auto">
@@ -132,13 +132,13 @@
                         <div id="typhoonstatuscard" class="text-light">
                         </div>
                         <div class="text-center">
-                            <img src="" id="tyimg" class="img-fluid" />
+                            <img src="null" id="tyimg" class="img-fluid" />
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <footer class="small text-center form-group"><small class="text-muted">Build : δ-0.2.1 Canary</small></footer>
+        <footer class="small text-center form-group"><small class="text-muted">Build : δ-0.2.2 Canary | Build : v4.3 Canary</small></footer>
         <asp:Label ID="Label1" runat="server"></asp:Label>
     </form>
 </body>
